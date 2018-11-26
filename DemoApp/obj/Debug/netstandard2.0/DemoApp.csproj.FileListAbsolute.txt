@@ -1,0 +1,16 @@
+/Users/kodema/Projects/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.deps.json
+/Users/kodema/Projects/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.dll
+/Users/kodema/Projects/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.pdb
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.csprojResolveAssemblyReference.cache
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.AssemblyInfoInputs.cache
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.AssemblyInfo.cs
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.dll
+/Users/kodema/Projects/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.pdb
